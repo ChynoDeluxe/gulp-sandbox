@@ -1,0 +1,17 @@
+{
+  "name": "gulp-sandbox",
+  "version": "1.0.0",
+  "description": "Create a local static HTML, SASS/CSS and Javascript project with live SASS compiling and live reload.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-sass": "^4.0.1"
+  }
+}
